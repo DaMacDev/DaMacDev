@@ -38,8 +38,6 @@
 - **[chimney-service](https://github.com/Vodkadav/chimney-service)** — *Riviera Hearth*, a bilingual (EN/ES) marketing site for a Cancún hotel chimney service. **TypeScript**.
 - **[calendarInport](https://github.com/Vodkadav/calendarInport)** — import every FIFA 2026 World Cup match into your calendar, in Danish time with broadcaster info. **Python**.
 
-### 📚 Studies
-- **[preparationSemester6](https://github.com/Vodkadav/preparationSemester6)** — semester 6 preparation & coursework. **C++**.
 
 ---
 
