@@ -53,8 +53,8 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaMacDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaMacDev&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages">
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats">
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages">
 </p>
 
 ---
