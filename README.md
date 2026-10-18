@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://webpresence-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-webpresence-0a7bbb?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/daniel-machado-944b7a2b4/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Vodkadav?tab=repositories"><img src="https://img.shields.io/badge/GitHub-%40Vodkadav-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/DaMacDev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-%40DaMacDev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -30,13 +30,13 @@
 ---
 
 ### 🎮 Games
-- **[TankGame](https://github.com/Vodkadav/TankGame)** — real-time multiplayer top-down tank arena. **Godot 4.6 / C#**, with a Cloudflare Worker backend.
-- **[minecraft3d](https://github.com/Vodkadav/minecraft3d)** *(PROJECT LAAS)* — a fully procedural open world in the browser; every mesh, texture and light generated in code at boot. **WebGPU / TypeScript**.
-- **[gnomestead](https://github.com/Vodkadav/gnomestead)** — a strategy base-building & resource-management game. *(Windows builds in Releases)*
+- **[TankGame](https://github.com/DaMacDev/TankGame)** — real-time multiplayer top-down tank arena. **Godot 4.6 / C#**, with a Cloudflare Worker backend.
+- **[minecraft3d](https://github.com/DaMacDev/minecraft3d)** *(PROJECT LAAS)* — a fully procedural open world in the browser; every mesh, texture and light generated in code at boot. **WebGPU / TypeScript**.
+- **[gnomestead](https://github.com/DaMacDev/gnomestead)** — a strategy base-building & resource-management game. *(Windows builds in Releases)*
 
 ### 🛠️ Tools & web
-- **[chimney-service](https://github.com/Vodkadav/chimney-service)** — *Riviera Hearth*, a bilingual (EN/ES) marketing site for a Cancún hotel chimney service. **TypeScript**.
-- **[calendarInport](https://github.com/Vodkadav/calendarInport)** — import every FIFA 2026 World Cup match into your calendar, in Danish time with broadcaster info. **Python**.
+- **[chimney-service](https://github.com/DaMacDev/chimney-service)** — *Riviera Hearth*, a bilingual (EN/ES) marketing site for a Cancún hotel chimney service. **TypeScript**.
+- **[calendarInport](https://github.com/DaMacDev/calendarInport)** — import every FIFA 2026 World Cup match into your calendar, in Danish time with broadcaster info. **Python**.
 
 
 ---
@@ -44,8 +44,8 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vodkadav&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vodkadav&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaMacDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaMacDev&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages">
 </p>
 
 ---
