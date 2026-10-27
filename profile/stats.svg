@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">DaMacDev&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 506, Total PRs: 1001, Total Issues: 886, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 506, Total PRs: 1008, Total Issues: 892, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 131.836112295028;
+        stroke-dashoffset: 131.83610682969518;
       }
     }
   
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="issues"
-      >886</text>
+      >892</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
